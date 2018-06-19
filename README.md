@@ -1,2 +1,2 @@
 # Hello-World
-This is my time writing in GitHub
+This is my first time writing in GitHub
